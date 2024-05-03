@@ -9,3 +9,4 @@ This is a fun little project that I decided to work on as a way to practice some
 
 I worked on this project in VS Code, which made it very easy to test and debug any problems I had with the HTML/CSS. It took me around 2 days, with a fews hours of work each day to implement everything I wanted. There is definitely a ton of room for improvement, but I am happy with how it turned out. I really like the card feature that I was able to get working. I did have to do some research on it, but I thought it turned out really cool!
 
+So, if you wanted to run this locally on your machine, you would just need to have VS Code installed, where you can then run/debug this code in a web browser.
